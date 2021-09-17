@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/app/static/css/main.6c0ff41e.chunk.css",
-    "main.js": "/app/static/js/main.8581f66b.chunk.js",
-    "main.js.map": "/app/static/js/main.8581f66b.chunk.js.map",
-    "runtime-main.js": "/app/static/js/runtime-main.baadbcfb.js",
-    "runtime-main.js.map": "/app/static/js/runtime-main.baadbcfb.js.map",
-    "static/js/2.83cf88d6.chunk.js": "/app/static/js/2.83cf88d6.chunk.js",
-    "static/js/2.83cf88d6.chunk.js.map": "/app/static/js/2.83cf88d6.chunk.js.map",
-    "index.html": "/app/index.html",
-    "static/css/main.6c0ff41e.chunk.css.map": "/app/static/css/main.6c0ff41e.chunk.css.map",
-    "static/js/2.83cf88d6.chunk.js.LICENSE.txt": "/app/static/js/2.83cf88d6.chunk.js.LICENSE.txt"
+    "main.css": "/WhosThatPokemon/static/css/main.6c0ff41e.chunk.css",
+    "main.js": "/WhosThatPokemon/static/js/main.8581f66b.chunk.js",
+    "main.js.map": "/WhosThatPokemon/static/js/main.8581f66b.chunk.js.map",
+    "runtime-main.js": "/WhosThatPokemon/static/js/runtime-main.d8f5d78c.js",
+    "runtime-main.js.map": "/WhosThatPokemon/static/js/runtime-main.d8f5d78c.js.map",
+    "static/js/2.83cf88d6.chunk.js": "/WhosThatPokemon/static/js/2.83cf88d6.chunk.js",
+    "static/js/2.83cf88d6.chunk.js.map": "/WhosThatPokemon/static/js/2.83cf88d6.chunk.js.map",
+    "index.html": "/WhosThatPokemon/index.html",
+    "static/css/main.6c0ff41e.chunk.css.map": "/WhosThatPokemon/static/css/main.6c0ff41e.chunk.css.map",
+    "static/js/2.83cf88d6.chunk.js.LICENSE.txt": "/WhosThatPokemon/static/js/2.83cf88d6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.baadbcfb.js",
+    "static/js/runtime-main.d8f5d78c.js",
     "static/js/2.83cf88d6.chunk.js",
     "static/css/main.6c0ff41e.chunk.css",
     "static/js/main.8581f66b.chunk.js"
